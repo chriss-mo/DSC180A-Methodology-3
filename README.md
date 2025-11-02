@@ -1,2 +1,2 @@
-Christopher Mo
-c1mo@ucsd.edu
+# DSC180A-Methodology-3
+Christopher Mo and Ryan Xavier
